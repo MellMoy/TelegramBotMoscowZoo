@@ -9,7 +9,7 @@
 Участником программы может стать любой неравнодушный: и ребёнок, и большая корпорация. Поддержка опекунов помогает зоопарку улучшать условия для животных и повышать уровень их благополучия.
 
 Английский (English)
-About the project
+<b>About the project</b>
 "Take care of an animal" ("Friends Club") is one of the programs that help the zoo take care of its inhabitants. The program allows you to contribute to the development of the zoo and the conservation of the planet's biodiversity with a donation of any amount.
 
 Currently, the Moscow Zoo is home to about 6,000 animals representing about 1,100 biological species of the world's fauna. Each animal is unique, and all require attention and care. The cost of the animal's care is calculated from the daily diet of the animal.
