@@ -9,6 +9,7 @@
 Участником программы может стать любой неравнодушный: и ребёнок, и большая корпорация. Поддержка опекунов помогает зоопарку улучшать условия для животных и повышать уровень их благополучия.
 
 Английский (English)
+
 <b>About the project</b>
 "Take care of an animal" ("Friends Club") is one of the programs that help the zoo take care of its inhabitants. The program allows you to contribute to the development of the zoo and the conservation of the planet's biodiversity with a donation of any amount.
 
